@@ -4,12 +4,12 @@ body {
 
 a {
     color: black;
-    
+    font-size: 20pt;
 }
 
 a:hover {
     text-decoration: none;
-    color: black;
+    color: blue;
 }
 
 .jumbotron {
