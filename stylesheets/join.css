@@ -1,5 +1,6 @@
 body {
     background-color: #d0d0d0;
+	overflow: hidden;
 }
 
 a {
@@ -13,15 +14,18 @@ a:hover {
 }
 
 .jumbotron {
-    background-color: #999;
+    background-color: #0ec30e;
     border-radius: 0px;
     transition: background-color 0.2s linear 0s;
     padding-bottom: 10px;
     padding-top: 10px;
 }
-.jumbotron:hover {
+/*.jumbotron:hover {
     color: white;
     background-color: #0ec30e;
+}*/
+#title {
+	color: white;
 }
 .greentxt {
     color: #0ec30e;
@@ -38,7 +42,20 @@ a:hover {
 .btn-success {
     background-color: #0ec30e;
 }
-
+.container {
+	width: 600px;
+	height: 600px;
+	background-color: white;
+}
+.para {
+	border-bottom-style: dashed;
+}
+h2, h3 {
+	margin: 8px
+}
 #accounts {
     height: 100vh;
+}
+#github{
+	background-image: url("https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png")
 }
