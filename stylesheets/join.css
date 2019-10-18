@@ -1,11 +1,11 @@
 body {
-    background-color: #d0d0d0;
+  background-color: #d0d0d0;
 	overflow: hidden;
 }
 
 a {
     color: black;
-    
+
 }
 
 a:hover {
@@ -55,7 +55,4 @@ h2, h3 {
 }
 #accounts {
     height: 100vh;
-}
-#github{
-	background-image: url("https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png")
 }
