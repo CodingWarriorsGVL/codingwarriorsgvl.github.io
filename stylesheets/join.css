@@ -46,12 +46,17 @@ a:hover {
 	width: 600px;
 	height: 600px;
 	background-color: white;
+  border-radius: 20px;
 }
 .para {
 	border-bottom-style: dashed;
 }
 h2, h3 {
 	margin: 8px
+}
+#media-title {
+  padding: 20px;
+  text-align: center;
 }
 #accounts {
     height: 100vh;
