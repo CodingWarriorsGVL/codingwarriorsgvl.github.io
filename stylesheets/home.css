@@ -80,7 +80,7 @@ a {
 }
 
 .greentxt {
-    color: #0ec30e;
+    color: darkblue;
 }
 
 .text-group {
@@ -100,7 +100,9 @@ a {
 .dark-bg-group {
     background-color: #dddddd;
 }
-
+button {
+	background-color: darkblue;
+}
 .btn-success {
     background-color: #0ec30e;
 }
