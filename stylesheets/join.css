@@ -44,15 +44,19 @@ a:hover {
 }
 .container {
 	width: 600px;
-	height: 600px;
+	height: 450px;
 	background-color: white;
-  border-radius: 20px;
+  border-radius: 15px;
 }
 .para {
 	border-bottom-style: dashed;
 }
 h2, h3 {
-	margin: 8px
+	margin: 8px;
+	padding: 20px;
+}
+a:hover {
+	color: #4f88e3;
 }
 #media-title {
   padding: 20px;
