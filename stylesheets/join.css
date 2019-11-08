@@ -8,11 +8,6 @@ a {
 
 }
 
-a:hover {
-    text-decoration: none;
-    color: black;
-}
-
 .jumbotron {
     background-color: darkblue;
     border-radius: 0px;
@@ -58,6 +53,7 @@ h2, h3 {
 }
 a:hover {
 	color: #4f88e3;
+  text-decoration: none;
 }
 #media-title {
 	padding: 20px;
@@ -65,4 +61,24 @@ a:hover {
 }
 #accounts {
     height: 100vh;
+}
+.logo {
+  display: inline-block;
+  height: 30px;
+  width: 30px;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+#ungconnect {
+  background-image: url("http://faculty.ung.edu/DJSpence/NSF/UNG_SteepleMark.png");
+}
+#github {
+  background-image: url("https://image.flaticon.com/icons/png/512/25/25231.png");
+}
+#groupme {
+  background-image: url("https://d3sq5bmi4w5uj1.cloudfront.net/images/brochure/og_image_poundie.png?1548793104");
+}
+#discord {
+  background-image: url("https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png");
 }
