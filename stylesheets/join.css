@@ -69,6 +69,8 @@ a:hover {
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
+  vertical-align: text-top;
+  margin-right: 10px;
 }
 #ungconnect {
   background-image: url("http://faculty.ung.edu/DJSpence/NSF/UNG_SteepleMark.png");
