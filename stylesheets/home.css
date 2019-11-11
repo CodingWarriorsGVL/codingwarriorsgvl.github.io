@@ -85,12 +85,12 @@ a {
 
 .text-group {
     padding: 2% 2% 0% 2%;
-    height: 100vh;
+    height: 70vh;
 }
 
 .text-group-s {
     padding: 2% 2% 0% 2%;
-    height: 150vh;
+    height: 80vh;
 }
 
 .light-bg-group {
@@ -109,7 +109,7 @@ button {
 
 #recruit {
     margin: 10px;
-    margin-top: 30%;;
+    margin-top: 10%;;
     padding: 20px;
     box-shadow: 0px 1px 3px black;
     border-radius: 20px;
